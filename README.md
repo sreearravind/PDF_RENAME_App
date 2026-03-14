@@ -199,7 +199,7 @@ git add .
 git commit -m "Initial commit: PDF Renamer application"
 
 # Create GitHub repository and push
-git remote add origin https://github.com/yourusername/pdf-renamer.git
+git remote add origin https://github.com/sreearravind/PDF_RENAME_APP.git
 git branch -M main
 git push -u origin main
 ```
