@@ -1,0 +1,16 @@
+# Core dependency for PDF processing
+PyPDF2>=3.0.0
+
+# Optional: For better PDF text extraction with images
+# Uncomment if you need image support
+# Pillow>=10.0.0
+
+# Optional: For advanced PDF processing
+# Uncomment if you need better title extraction
+# pdfplumber>=0.10.0
+
+# Development dependencies
+# Uncomment if you're contributing
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
