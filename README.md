@@ -19,7 +19,7 @@ A Python application that automatically renames research article PDFs based on t
 
 ## 📸 Screenshots
 
-*[Add screenshots of your application here]*
+[![outlook of the app](https://github.com/sreearravind/PDF_RENAME_App/blob/master/figure/app_sample_outline.png)](https://github.com/sreearravind/PDF_RENAME_App/blob/master/figure/app_sample_outline.png)
 
 ## 🚀 Quick Start
 
@@ -139,9 +139,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/pdf-renamer](https://github.com/yourusername/pdf-renamer)
+Project Link: [(https://github.com/sreearravind/PDF_RENAME_App)
 
 ## 🐛 Known Issues
 
